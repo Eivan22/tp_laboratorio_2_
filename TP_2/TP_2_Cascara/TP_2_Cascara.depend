@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1491536124 source:f:\lab i\clase3\tp1 07_04_2017\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1491538208 source:f:\lab i\clase3\tp1 07_04_2017\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491536192 f:\lab i\clase3\tp1 07_04_2017\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1491606794 source:i:\lab i\clase3\tp1 07_04_2017\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1491608314 source:i:\lab i\clase3\tp1 07_04_2017\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1491606796 i:\lab i\clase3\tp1 07_04_2017\tp1 07_04_2017\tp_1_cascara\tp_1_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1491596154 source:c:\users\eivan\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp_1_cascara\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1492991632 source:c:\users\eivan\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1491596154 c:\users\eivan\downloads\tp_laboratorio_1-master\tp_laboratorio_1-master\tp_1_cascara\tp_1_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1493425046 source:f:\tp_laboratorio_1-master\tp_1_cascara\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1493425184 source:f:\tp_laboratorio_1-master\tp_1_cascara\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1493421988 f:\tp_laboratorio_1-master\tp_1_cascara\tp_1_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1506097777 source:c:\users\iechoque\desktop\tp_laboratorio_2-master\tp_2_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1506098011 source:c:\users\iechoque\desktop\tp_laboratorio_2-master\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1506096340 c:\users\iechoque\desktop\tp_laboratorio_2-master\tp_2_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
